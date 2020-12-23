@@ -292,6 +292,16 @@ margin:0
   margin:auto;
 }
 }
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+    .main #123{
+      text-align: center;
+      margin:auto;
+}
+
 .social-icons
 {
 padding-left:0;
