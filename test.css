@@ -299,7 +299,7 @@ margin:0
   and (orientation: portrait) {
     .main #123{
       text-align: center;
-      margin:auto;
+      margin:auto;}
 }
 
 .social-icons
@@ -373,6 +373,6 @@ background-color:#ea4c89
   font-weight:600;
 }
 }
-}
+
 .list{
-opacity: 0.7;}
+opacity: 0.}
