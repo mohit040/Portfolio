@@ -370,10 +370,9 @@ background-color:#ea4c89
 {
   display:block;
   margin-right:0;
-  font-weight:600
+  font-weight:600;
+}
 }
 }
 .list{
-opacity: 0.7;
-}
-}
+opacity: 0.7;}
