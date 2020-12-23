@@ -269,6 +269,10 @@ margin:0
 .social{
   visibility: hidden;
 }
+.main #123{
+  text-align: center;
+  margin:auto;
+}
 }
 @media (max-width:767px)
 {
@@ -282,6 +286,10 @@ margin:0
 }
 .social{
   visibility: hidden;
+}
+.main #123{
+  text-align: center;
+  margin:auto;
 }
 }
 .social-icons
@@ -356,5 +364,5 @@ background-color:#ea4c89
 }
 }
 .list{
-  opacity: 0.7;
+opacity: 0.7;
 }
