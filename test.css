@@ -271,7 +271,9 @@ margin:0
 }
 .main #123{
   text-align: center;
-  margin:auto;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
 }
 }
 @media (max-width:767px)
@@ -289,7 +291,9 @@ margin:0
 }
 .main #123{
   text-align: center;
-  margin:auto;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
 }
 }
 .social-icons
